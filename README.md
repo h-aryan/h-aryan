@@ -1,6 +1,8 @@
-## Hi there 👋
-
 # 💫 About Me:
+
+👋 Hey there! I'm a curious developer who loves building sleek web apps & cracking coding challenges. Always exploring new tech—let’s connect & create! 
+
+
  <br>🌱 I’m currently learning SQL and GO right now.
  <br>👀 I'm planning to learn Kotlin in future.
 
