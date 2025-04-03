@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on building a web application in Svelte, enhancing user authentication features, and refining UI elements for an optimized user experience.
  <br>🌱 I’m currently learning SQL and GO right now.
- <br>👀 I'm planning to learn in Kotlin in future.
+ <br>👀 I'm planning to learn Kotlin in future.
 
 
 ## 🌐 Socials:
